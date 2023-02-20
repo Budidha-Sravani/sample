@@ -45,6 +45,18 @@ tbody tr:nth-child(even) {
   padding-right: 0px;
   padding-top: 400px;
 }
+.GiftContainer{
+  font-size: 25px;
+  padding-left: -500px;
+  padding-right: -10px;
+  padding-top: 200px;
+}
+.GiftStyles{
+  color: #1775ee;
+  padding:'80px' ;
+  font-size: 20px;
+
+}
 
 
 
