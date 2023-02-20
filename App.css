@@ -1,0 +1,53 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+  background-color: #d1c9c9;
+}
+
+th, td {
+  border: 1px solid #131212;
+  padding: 8px;
+}
+
+th {
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background-color: white;
+}
+.CyberSecurityContainer{
+  font-size: 25px;
+  padding-left: 400px;
+  padding-right: 0px;
+  padding-top: 300px;
+}
+.BCPContainer{
+  font-size: 25px;
+  padding-left: 400px;
+  padding-right: 0px;
+  padding-top: 300px;
+}
+.BCP1{
+  margin-top: -150px;
+}
+.image{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: -150px;
+}
+.CorporateGovernanceContainer{
+  font-size: 25px;
+  padding-left: 400px;
+  padding-right: 0px;
+  padding-top: 400px;
+}
+
+
+
+
+
+
