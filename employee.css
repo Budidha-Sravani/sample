@@ -1,0 +1,85 @@
+.employee-wrapper{
+    display: flex;
+    padding:80px;
+   
+}
+
+.employee-leftcontainer{
+    width: 600px;
+    height: 700px;
+    margin-right: 30px;
+    
+
+}
+.employee-rightcontainer{
+    width: 500px;
+    padding: 20px;
+    border: 8px solid blue;
+}
+
+.emp-image{
+    height: 500px;
+    width: 600px;
+}
+.search-input{
+    border:2px solid grey;
+    margin-top: 30px;
+    width: 450px;
+    border-radius: 10px;
+}
+.emp-searchbar{
+    display: flex;
+    padding-left:700px;
+}
+.emp-search{
+    width: 100px;
+    height: 31px;
+    cursor: pointer;
+    background-color: #1775ee;
+    color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.emp-search:focus{
+    outline: none;
+}
+.input-id{
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+input{
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.editemployeebutton{
+    width: 150px;
+    height: 31px;
+    cursor: pointer;
+    background-color: #1775ee;
+    color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.edittitle{
+    text-align: center;
+    font-size: 23px;
+    font: bold;
+    margin-left: 150px;
+}
+
+.wrapperimage{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.viewemployee{
+    border-radius: 20px;
+    border: 2px solid grey;
+    
+}
+.viewemployeetitle{
+    text-align: left;
+}
